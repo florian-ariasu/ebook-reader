@@ -61,3 +61,11 @@ Proiect hardware open-source dedicat realizarii unui e-book reader portabil, acc
 
 - In directorul `Images/` am adaugat imagini cu [schematic ul](Images/schematic.png), [pcb ul pe layer ul top](Images/pcb-top.png), [pcb ul pe layer ul botom](Images/pcb-bottom.png), cat si [modelul 3d](Images/3d-model.png), realizat partial.
 - Nu am reusit sa termin modelul 3d din cauza acestei erori: [Err](https://drive.google.com/file/d/1OxoRz578BLnHlP2pYjgpvO0PX-aaG8BJ/view?usp=sharing)
+
+## Status proiect
+- schematic: complet
+- pcb: complet (0 erori, punctaj 100%) + respectare fisier constrangeri
+- model 3d: incomplet (eroare mentionata mai [aici](https://github.com/florian-ariasu/ebook-reader/edit/main/README.md#randari--poze))
+- Gerber: realizat
+- CPL: realizat
+- BOM: realizat
