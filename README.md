@@ -60,5 +60,5 @@ Proiect hardware open-source dedicat realizării unui e-book reader portabil, ac
 ## Randări & Poze
 
 - In directorul `Images/` am adaugat imagini cu schematicul, pcb ul, cat si modelul 3d, realizat partial.
-- Nu am reusit sa termin modelul 3d din cauza acestei erori: [Err](Images/err.png)
+- Nu am reusit sa termin modelul 3d din cauza acestei erori: [Err](https://drive.google.com/file/d/1OxoRz578BLnHlP2pYjgpvO0PX-aaG8BJ/view?usp=sharing)
 
