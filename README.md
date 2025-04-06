@@ -72,6 +72,9 @@ Proiect hardware open-source dedicat realizarii unui e-book reader portabil, acc
 - In directorul `Images/` am adaugat imagini cu [schematic ul](Images/schematic.png), [pcb ul pe layer ul top](Images/pcb-top.png), [pcb ul pe layer ul botom](Images/pcb-bottom.png), cat si [modelul 3d](Images/3d-model.png), realizat partial.
 - Nu am reusit sa termin modelul 3d din cauza acestei erori: [Err](https://drive.google.com/file/d/1OxoRz578BLnHlP2pYjgpvO0PX-aaG8BJ/view?usp=sharing)
 
+### Bug uri intampinate
+- Am fost nevoit sa dau approve pentru 2 erori de tip `Smd-hole` la partea de rutare a pcb ului.
+
 ### Link uri piese:
 - [Mouser](https://eu.mouser.com/)
 - [Component Search Engine](https://componentsearchengine.com)
