@@ -21,6 +21,8 @@ Proiect hardware open-source dedicat realizării unui e-book reader portabil, ac
 
 ## BOM - Bill Of Materials
 
+[Fisier BOM](Images/PnP Ebook Reader v53 Front.xlsx)
+
 ---
 
 ## Descrierea hardware-ului
