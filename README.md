@@ -65,7 +65,7 @@ Proiect hardware open-source dedicat realizarii unui e-book reader portabil, acc
 ## Status proiect
 - schematic: complet
 - pcb: complet (0 erori, punctaj 100%) + respectare fisier constrangeri
-- model 3d: incomplet (eroare mentionata mai [aici](https://github.com/florian-ariasu/ebook-reader/edit/main/README.md#randari--poze))
+- model 3d: incomplet (eroare mentionata [aici](https://github.com/florian-ariasu/ebook-reader/blob/main/README.md#randari--poze))
 - Gerber: realizat
 - CPL: realizat
 - BOM: realizat
