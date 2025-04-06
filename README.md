@@ -1,20 +1,20 @@
 # OpenBook eBook Reader
 
-Proiect hardware open-source dedicat realizării unui e-book reader portabil, accesibil și ușor de reprodus. Dispozitivul se bazează pe un microcontroller ESP32-C6, include un afișaj E-Paper cu consum redus de energie, stocare pe card microSD, conectivitate USB-C pentru alimentare și transfer de date, precum și o baterie Li-Po reîncărcabilă pentru portabilitate completă.
+Proiect hardware open-source dedicat realizarii unui e-book reader portabil, accesibil si usor de reprodus. Dispozitivul se bazeaza pe un microcontroller ESP32-C6, include un afisaj E-Paper cu consum redus de energie, stocare pe card microSD, conectivitate USB-C pentru alimentare si transfer de date, precum si o baterie Li-Po reincarcabila pentru portabilitate completa.
 
-## Diagramă Bloc
+## Diagrama Bloc
 
-[Diagramă Bloc](Images/diagram.png)
+[Diagrama Bloc](Images/diagram.png)
 
-> Diagrama bloc prezintă legătura între principalele componente:
-- ESP32-C6 (unitate centrală)
-- Afișaj E-Paper
+`Diagrama bloc reprezinta legatura dintre principalele componente:`
+- ESP32-C6 (unitate centrala)
+- Afisaj E-Paper
 - Cititor SD card
 - RTC DS3231
 - Senzor ambiental BME688
-- Control încărcare baterie Li-Po
+- Control incarcare baterie Li-Po
 - Modul flash extern 64MB
-- Interfață USB-C
+- Interfata USB-C
 - Circuit de reglare tensiune (LDO)
 
 ---
@@ -28,22 +28,22 @@ Proiect hardware open-source dedicat realizării unui e-book reader portabil, ac
 ## Descrierea hardware-ului
 
 ### Microcontroller
-- **ESP32-C6** este unitatea principală care controlează toate perifericele.
-- Rulează firmware-ul ce gestionează interfața cu utilizatorul, afișajul EPD, comunicația cu SD card-ul, senzorul ambiental și RTC-ul.
+- **ESP32-C6** este unitatea principala care controleaza toate perifericele.
+- Ruleaza firmware-ul ce gestioneaza interfata cu utilizatorul, afisajul EPD, comunicatia cu SD card-ul, senzorul ambiental si RTC-ul.
 
 ### Alimentare
-- Alimentare principală prin **USB-C**.
-- Reglator de tensiune **LDO** (IC4 - XC6204A33) convertește 5V în 3.3V.
+- Alimentare principala prin **USB-C**.
+- Reglator de tensiune **LDO** (IC4 - XC6204A33) converteste 5V in 3.3V.
 
 ### Stocare
-- Slot **microSD** pentru cărți și fișiere.
-- Memorie flash externă **W25Q512JVSIQ** conectată prin SPI pentru firmware suplimentar sau caching.
+- Slot **microSD** pentru carti si fisiere.
+- Memorie flash externa **W25Q512JVSIQ** conectata prin SPI pentru firmware suplimentar sau caching.
 
 ---
 
 ## Alocarea pinilor ESP32-C6
 
-| Funcție               | Pin ESP32-C6 | Observații |
+| Functie               | Pin ESP32-C6 | Observatii |
 |------------------------|--------------|-------------|
 | SD Card                | IO2, IO3, IO4, IO5 | SPI |
 | E-Paper Display        | IO8, IO9, IO10 | SPI |
@@ -51,14 +51,13 @@ Proiect hardware open-source dedicat realizării unui e-book reader portabil, ac
 | RTC DS3231             | IO6 (SCL), IO7 (SDA) | I2C shared |
 | Flash extern SPI       | IO0, IO1, IO2 | SPI |
 | Boot Button            | IO9          | Reset GPIO |
-| Buton IO               | IO10         | Control interfață |
-| UART Debug             | IO20 (TX), IO21 (RX) | Conexiune serială |
+| Buton IO               | IO10         | Control interfata |
+| UART Debug             | IO20 (TX), IO21 (RX) | Conexiune seriala |
 | Ecran Type Select      | IO18, IO19   | Selectare tip e-paper |
 
 ---
 
-## Randări & Poze
+## Randari & Poze
 
 - In directorul `Images/` am adaugat imagini cu schematicul, pcb ul, cat si modelul 3d, realizat partial.
 - Nu am reusit sa termin modelul 3d din cauza acestei erori: [Err](https://drive.google.com/file/d/1OxoRz578BLnHlP2pYjgpvO0PX-aaG8BJ/view?usp=sharing)
-
