@@ -21,7 +21,7 @@ Proiect hardware open-source dedicat realizării unui e-book reader portabil, ac
 
 ## BOM - Bill Of Materials
 
-[Fisier BOM](Images/BOM.xlsx)
+[Fisier BOM](Images/BOM.csv)
 
 ---
 
