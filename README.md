@@ -77,4 +77,4 @@ Proiect hardware open-source dedicat realizarii unui e-book reader portabil, acc
 
 ### Link uri piese:
 - [Mouser](https://eu.mouser.com/)
-- [Component Search Engine](https://componentsearchengine.com)
+- [Comet](https://www.comet.srl.ro/)
