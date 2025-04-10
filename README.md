@@ -4,8 +4,8 @@ Proiect hardware open-source dedicat realizarii unui e-book reader portabil, acc
 
 ### Status proiect
 - schematic: complet
-- pcb: complet (0 erori, punctaj 100%) + respectare fisier constrangeri
-- model 3d: incomplet (eroare mentionata [aici](https://github.com/florian-ariasu/ebook-reader/blob/main/README.md#randari--poze))
+- pcb: complet
+- model 3d: complet
 - Gerber: realizat
 - CPL: realizat
 - BOM: realizat
@@ -69,8 +69,7 @@ Proiect hardware open-source dedicat realizarii unui e-book reader portabil, acc
 
 ### Randari & Poze
 
-- In directorul `Images/` am adaugat imagini cu [schematic ul](Images/schematic.png), [pcb ul pe layer ul top](Images/pcb-top.png), [pcb ul pe layer ul botom](Images/pcb-bottom.png), cat si [modelul 3d](Images/3d-model.png), realizat partial.
-- Nu am reusit sa termin modelul 3d din cauza acestei erori: [err](https://drive.google.com/file/d/1OxoRz578BLnHlP2pYjgpvO0PX-aaG8BJ/view?usp=sharing)
+- In directorul `Images/` am adaugat imagini cu [schematic ul](Images/schematic.png), [pcb ul pe layer ul top](Images/pcb-top.png), [pcb ul pe layer ul botom](Images/pcb-bottom.png), cat si [modelul 3d](Images/3d-model.png), produsul final.
 
 ### Bug uri intampinate
 - Am fost nevoit sa dau approve pentru 2 erori de tip `Smd-hole` la partea de rutare a pcb ului.
