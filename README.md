@@ -2,14 +2,6 @@
 
 Proiect hardware open-source dedicat realizarii unui e-book reader portabil, accesibil si usor de reprodus. Dispozitivul se bazeaza pe un microcontroller ESP32-C6, include un afisaj E-Paper cu consum redus de energie, stocare pe card microSD, conectivitate USB-C pentru alimentare si transfer de date, precum si o baterie Li-Po reincarcabila pentru portabilitate completa.
 
-### Status proiect
-- schematic: complet
-- pcb: complet
-- model 3d: complet
-- Gerber: realizat
-- CPL: realizat
-- BOM: realizat
-
 ### Detalii Implementare
 
 #### Diagrama Bloc
