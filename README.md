@@ -112,7 +112,7 @@ OpenBook/
 │   ├── 3d-model-2.png
 │   ├── 3d-model-3.png
 │   ├── 3d-model-enclosure.png
-├── LICENSE
+├── LICENCE
 └── README.md
 ```
 
@@ -134,4 +134,4 @@ This hardware complies with recommended best practices and lab guidelines:
 
 ## Licensing
 
-This project is licenced under the **[GPL-3.0 license](LICENCE)**, encouraging open development and modification.
+This project is licensed under the **[GPL-3.0 license](LICENCE)**, encouraging open development and modification.
