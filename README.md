@@ -78,6 +78,7 @@ All design-related visual documentation is located in the `Images/` directory:
 - [PCB Top View](Images/pcb-top.png)
 - [PCB Bottom View](Images/pcb-bottom.png)
 - [3D Model](Images/3d-model-2.png)
+- [Battery](Images/3d-model-3.png)
 - [OpenBook Enclosure](Images/3d-model-enclosure.png)
 
 ---
