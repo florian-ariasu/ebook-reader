@@ -6,7 +6,7 @@
 
 ## System Architecture
 
-### 📊 Block Diagram
+### Block Diagram
 
 ![Block Diagram](Images/diagram.png)
 
@@ -28,7 +28,7 @@ This block diagram outlines the functional interconnections between the primary 
 
 Access the full list of components used in this design, including links to suppliers and datasheets:
 
-[Download BOM (CSV)](Manufacturing/BOM.csv)
+[Access the Bill of Materials (CSV)](Manufacturing/BOM.csv)
 
 Official Sources:
 - [Mouser](https://eu.mouser.com)
@@ -78,6 +78,7 @@ All design-related visual documentation is located in the `Images/` directory:
 - [PCB Top View](Images/pcb-top.png)
 - [PCB Bottom View](Images/pcb-bottom.png)
 - [3D Model](Images/3d-model.png)
+- [OpenBook Enclosure](Images/3d-model-enclosure.png)
 
 ---
 
