@@ -128,4 +128,4 @@ This hardware complies with recommended best practices and lab guidelines:
 
 ## Licensing
 
-This project is licensed under the **[GPL-3.0 license](LICENCE)**, encouraging open development and modification.
+This project is licenced under the **[GPL-3.0 license](LICENCE)**, encouraging open development and modification.
