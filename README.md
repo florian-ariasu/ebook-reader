@@ -93,20 +93,25 @@ All design-related visual documentation is located in the `Images/` directory:
 ```
 OpenBook/
 ├── Hardware/
-│   ├── openbook.sch
-│   ├── openbook.brd
+│   ├── ebook-reader.sch
+│   ├── ebook-reader.brd
 ├── Manufacturing/
 │   ├── gerbers.zip
 │   ├── BOM.csv
-│   ├── PickAndPlace.cpl
+│   ├── PickAndPlace.zip
 ├── Mechanical/
-│   ├── openbook.step
-│   ├── fusion360_model.f3d
+│   ├── OpenBook Enclosure.step
+│   ├── OpenBook Enclosure.f3z
+│   ├── ebook-reader.f3d
 ├── Images/
 │   ├── schematic.png
 │   ├── pcb-top.png
 │   ├── pcb-bottom.png
-│   ├── 3d-model.png
+│   ├── diagram.png
+│   ├── 3d-model-1.png
+│   ├── 3d-model-2.png
+│   ├── 3d-model-3.png
+│   ├── 3d-model-enclosure.png
 ├── LICENSE
 └── README.md
 ```
