@@ -31,8 +31,8 @@ Access the full list of components used in this design, including links to suppl
 [Access the Bill of Materials (CSV)](Manufacturing/BOM.csv)
 
 Official Sources:
-- [Mouser](https://eu.mouser.com)
 - [Comet](https://www.comet.srl.ro)
+- [Mouser](https://eu.mouser.com)
 
 ---
 
