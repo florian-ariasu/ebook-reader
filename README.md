@@ -6,6 +6,7 @@
 > This is a homework project for the TSC class (3rd year, 2nd semester).  
 - It is a practical assignment created in **Autodesk Fusion 360** using a student license.  
 - The `README.md` file was entirely written with AI assistance, and the block diagram was AI-generated based on the project’s implementation details.
+- Educational purposes only
 
 ---
 
@@ -140,5 +141,6 @@ This hardware complies with recommended best practices and lab guidelines:
 ## Licensing
 
 This project is licensed under the **[GPL-3.0 license](LICENCE)**, encouraging open development and modification.
+
 
 
