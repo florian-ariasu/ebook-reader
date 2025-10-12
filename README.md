@@ -2,6 +2,11 @@
 
 **OpenBook** is an open-source hardware project focused on developing a portable, affordable, and easily reproducible e-book reader. The device is based on the ESP32-C6 microcontroller and integrates an energy-efficient E-Paper display, microSD card storage, USB-C connectivity for power and data transfer, and a rechargeable Li-Po battery for full portability.
 
+> [!IMPORTANT]
+> This is a project homework for TSC class (3rd year, 2nd sem)
+- It is a practical project done in **Autodesk Fusion360** due to student licence gratuity
+- The README.md was entirely created with AI assistance 
+
 ---
 
 ## System Architecture
@@ -135,3 +140,4 @@ This hardware complies with recommended best practices and lab guidelines:
 ## Licensing
 
 This project is licensed under the **[GPL-3.0 license](LICENCE)**, encouraging open development and modification.
+
