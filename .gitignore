@@ -1,0 +1,18 @@
+# macOS system files
+.DS_Store
+*/.DS_Store
+
+# Hardware / Fusion 360 / Eagle temporary files
+*.s#*
+*.b#*
+*.l#*
+*.scr
+*.erc
+*.dru
+*.pro
+*.log
+
+# Python/ESP32 build artifacts (if you start coding)
+__pycache__/
+build/
+sdkconfig
