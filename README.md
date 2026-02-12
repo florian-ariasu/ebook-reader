@@ -1,4 +1,4 @@
-# OpenBook – E-Reader Project
+# OpenBook E-Reader Project
 
 This project focuses on creating a portable, affordable, and easily reproducible e-book reader. The device is powered by the **ESP32-C6** microcontroller and features an energy-efficient 
 E-Paper display, microSD storage, and a comprehensive power management system.
@@ -91,3 +91,4 @@ All design-related documentation is located in the `Images/` directory:
 ## Licensing
 
 This project is licensed under the **[GPL-3.0 license](LICENCE)**.
+
