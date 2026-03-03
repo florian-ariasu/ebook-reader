@@ -38,8 +38,8 @@ The system supports primary power via **USB-C** (5V). Charging is handled by the
 
 ### Storage Subsystems
 
-- **MicroSD Card (J4)**: SPI-based interface for external library storage.
-- **NOR Flash (U1)**: 512Mb (64MB) SPI flash memory for firmware extensions.
+- **MicroSD Card (J4)**: SPI-based interface for external library storage
+- **NOR Flash (U1)**: 512Mb (64MB) SPI flash memory for firmware extensions
 
 ---
 
@@ -100,3 +100,4 @@ This is a 3rd-year TSC course assignment, designed in Autodesk Fusion 360 using 
 ## Licensing
 
 This project is licensed under the **[GPL-3.0 license](LICENCE)**.
+
